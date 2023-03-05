@@ -12,7 +12,7 @@
   },
   "engines":{
     "node": "14.x"
-  }
+  },
   "dependencies": {
     "next": "^13.1.0",
     "prism-theme-night-owl": "^1.4.0",
